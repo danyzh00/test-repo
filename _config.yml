@@ -1,0 +1,22 @@
+title: CSS Advanced The Final
+email: dany.zh.00@gmail.com
+description: Hi there!
+baseurl: ""
+url: ""
+github_username:  danyzh00
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
